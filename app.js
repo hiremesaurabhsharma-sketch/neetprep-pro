@@ -981,15 +981,15 @@ function showToast(type, message) {
 const AUTH_DB_KEY = "neetprep_users_db";
 const CUSTOM_QUESTIONS_KEY = "neetprep_custom_questions";
 
-// Initialize Firebase SDK Config for neeter2 Web App
+// Initialize Firebase SDK Config for neeter-cce46 Web App
 const firebaseConfig = {
-    apiKey: "AIzaSyBf7NroDn7whm8UWaoA-OVpNMBV9Oorgnk",
-    authDomain: "neeter2.firebaseapp.com",
-    projectId: "neeter2",
-    storageBucket: "neeter2.firebasestorage.app",
-    messagingSenderId: "970497504446",
-    appId: "1:970497504446:web:a68e9e4f871972571e5aef",
-    measurementId: "G-YP4MSBLD0E"
+    apiKey: "AIzaSyBiWXcndXWU0su0vDRJqtjRw76jnIK-eIc",
+    authDomain: "neeter-cce46.firebaseapp.com",
+    projectId: "neeter-cce46",
+    storageBucket: "neeter-cce46.firebasestorage.app",
+    messagingSenderId: "563867293301",
+    appId: "1:563867293301:web:e8020e9cea10f71d4c0a3c",
+    measurementId: "G-QM0271V8EE"
 };
 firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
