@@ -1,0 +1,156 @@
+[
+    {
+        "class": "11",
+        "subject": "botany",
+        "chapterId": "b11_05",
+        "text": "Which of the following cellular organelles is enclosed by a single membrane and contains hydrolytic enzymes active under acidic pH?",
+        "options": [
+            "Mitochondria",
+            "Lysosomes",
+            "Chloroplasts",
+            "Nucleoli"
+        ],
+        "correct": 1,
+        "explanation": "Lysosomes are single-membrane bound vesicular structures formed by the process of packaging in the Golgi apparatus. They contain almost all types of hydrolytic enzymes (hydrolases – lipases, proteases, carbohydrases) optimally active at an acidic pH (pH 5)."
+    },
+    {
+        "class": "11",
+        "subject": "botany",
+        "chapterId": "b11_01",
+        "text": "In Bryophytes, the dominant photosynthetic phase of the life cycle is represented by which of the following?",
+        "options": [
+            "Diploid Sporophyte",
+            "Haploid Gametophyte",
+            "Diplobiontic Protonema",
+            "Triploid Endosperm"
+        ],
+        "correct": 1,
+        "explanation": "The main dominant, independent, photosynthetic, haploid plant body in Bryophytes is the gametophyte. The sporophyte is physically dependent, either completely or partially, on the gametophyte for anchorage and nutrition."
+    },
+    {
+        "class": "11",
+        "subject": "botany",
+        "chapterId": "b11_06",
+        "text": "Which enzyme is responsible for the primary carboxylation step in C4 plants, and where is it located in the leaf tissue?",
+        "options": [
+            "RuBisCO in bundle sheath cells",
+            "PEP carboxylase in bundle sheath cells",
+            "PEP carboxylase in mesophyll cells",
+            "RuBisCO in mesophyll cells"
+        ],
+        "correct": 2,
+        "explanation": "In C4 plants, the primary carbon dioxide acceptor is Phosphoenolpyruvate (PEP) and is catalyzed by the enzyme PEP carboxylase (PEPcase) present within the cytoplasm of mesophyll cells. Mesophyll cells lack the enzyme RuBisCO."
+    },
+    {
+        "class": "11",
+        "subject": "zoology",
+        "chapterId": "z11_03",
+        "text": "Which bond is responsible for stabilizing the secondary alpha-helix structure of a polypeptide chain?",
+        "options": [
+            "Intramolecular Hydrogen bonds",
+            "Covalent Disulfide linkages",
+            "Hydrophobic interactions",
+            "Intermolecular peptide bonds"
+        ],
+        "correct": 0,
+        "explanation": "The alpha-helix structure in proteins is a secondary structure stabilized by intramolecular hydrogen bonds formed between the carbonyl oxygen (-CO) of one amino acid residue and the amide nitrogen (-NH) of an amino acid four residues ahead."
+    },
+    {
+        "class": "11",
+        "subject": "zoology",
+        "chapterId": "z11_08",
+        "text": "During the polarization state (resting membrane potential) of a neuron, the axonal membrane is characterized by which state?",
+        "options": [
+            "Highly permeable to sodium ions (Na+)",
+            "Comparatively more permeable to potassium ions (K+) and nearly impermeable to sodium ions",
+            "Equally permeable to both Na+ and K+ ions",
+            "Impermeable to both sodium and potassium ions"
+        ],
+        "correct": 1,
+        "explanation": "At rest, the axonal membrane is comparatively more permeable to potassium ions (K+) and nearly impermeable to sodium ions (Na+). Additionally, the membrane is impermeable to negatively charged proteins present in the axoplasm."
+    },
+    {
+        "class": "11",
+        "subject": "physics",
+        "chapterId": "p11_03",
+        "text": "For a projectile fired from ground level with speed u at an angle θ relative to the horizontal, what is the ratio of maximum height attained to horizontal range if θ is 45 degrees?",
+        "options": [
+            "1 : 2",
+            "1 : 4",
+            "1 : 1",
+            "2 : 1"
+        ],
+        "correct": 1,
+        "explanation": "Maximum Height H = (u² sin²θ)/(2g). Range R = (u² sin2θ)/g. Thus H/R = (sin²θ) / (2 sin2θ) = (sin²θ) / (4 sinθ cosθ) = tanθ / 4. For θ = 45°, tan45° = 1, giving H/R = 1/4. Therefore, the ratio is 1:4."
+    },
+    {
+        "class": "11",
+        "subject": "physics",
+        "chapterId": "p11_09",
+        "text": "In an isothermal process, 200 Joules of heat are added to an ideal gas. What is the change in internal energy (ΔU) of the gas during this process?",
+        "options": [
+            "200 Joules",
+            "-200 Joules",
+            "0 Joules",
+            "100 Joules"
+        ],
+        "correct": 2,
+        "explanation": "For an ideal gas, internal energy is a function of temperature only (U ∝ T). In an isothermal process, the temperature remains constant (ΔT = 0). Therefore, the change in internal energy is exactly 0 Joules."
+    },
+    {
+        "class": "11",
+        "subject": "chemistry",
+        "chapterId": "c11_04",
+        "text": "According to Valence Shell Electron Pair Repulsion (VSEPR) theory, what is the structural geometry and hybridization state of the Xenon Tetrafluoride (XeF4) molecule?",
+        "options": [
+            "Square Planar, sp3d2",
+            "Tetrahedral, sp3",
+            "Square Pyramidal, sp3d",
+            "Octahedral, d2sp3"
+        ],
+        "correct": 0,
+        "explanation": "Xenon has 8 valence electrons. In XeF4, it forms 4 single covalent bonds with Fluorine, leaving 2 lone pairs. Steric number = 4 bond pairs + 2 lone pairs = 6. Hybridization is sp3d2. With 2 lone pairs situated opposite to minimize repulsions, the molecular shape is Square Planar."
+    },
+    {
+        "class": "11",
+        "subject": "chemistry",
+        "chapterId": "c11_08",
+        "text": "Which of the following organic reaction intermediates is planar in shape and possesses 6 valence electrons on the central carbon atom?",
+        "options": [
+            "Carbanion",
+            "Free Radical",
+            "Carbocation",
+            "Carbene"
+        ],
+        "correct": 2,
+        "explanation": "A carbocation (carbonium ion) contains a positively charged carbon atom bonded to three groups. The central carbon is sp2 hybridized, having a planar triangular geometry with only 6 valence electrons (electrophilic center)."
+    },
+    {
+        "class": "12",
+        "subject": "botany",
+        "chapterId": "b12_03",
+        "text": "Which of the following non-coding segments is removed during the post-transcriptional splicing process in eukaryotic primary transcripts (hnRNA)?",
+        "options": [
+            "Exons",
+            "Promoters",
+            "Introns",
+            "Codons"
+        ],
+        "correct": 2,
+        "explanation": "Eukaryotic primary transcripts (hnRNA) contain both functional expressed sequences (exons) and non-expressed intervening sequences (introns). During splicing, introns are excised and exons are joined in a defined order by spliceosomes."
+    },
+    {
+        "class": "12",
+        "subject": "zoology",
+        "chapterId": "z12_05",
+        "text": "Which enzymes are called molecular scissors and cut DNA at highly specific palindromic sequences?",
+        "options": [
+            "DNA Ligases",
+            "Restriction Endonucleases",
+            "Taq Polymerases",
+            "Reverse Transcriptases"
+        ],
+        "correct": 1,
+        "explanation": "Restriction endonucleases, often referred to as molecular scissors, recognize a specific nucleotide sequence (restriction site) in DNA and make double-stranded cuts within or close to that sequence, facilitating recombinant gene assembly."
+    }
+]
